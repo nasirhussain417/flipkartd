@@ -1,2 +1,2 @@
 # flipkartd
-Build flipkartd project for git session demo prac
+Build flipkartd project for git session demo practice
